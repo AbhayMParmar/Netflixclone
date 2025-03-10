@@ -8,5 +8,6 @@ SignIn Page
 
 
 ![image](https://github.com/AbhayMParmar/Netflixclone/blob/main/Login.png?raw=true)
+Register Page:-
 
-
+![image](https://github.com/AbhayMParmar/Netflixclone/blob/main/Register.png?raw=true)
