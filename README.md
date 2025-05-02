@@ -8,6 +8,14 @@ _(https://codewith30.netlify.app/)_
 
 ## 📁 Project Structure
 
+├── index.html # Main landing page (Netflix-style design)
+├── login.html # Login form
+├── Register.html # User registration form
+├── Home.html # Redirect page post-registration/login
+├── done.html # Submission confirmation page
+├── style.css # Main stylesheet
+├── script.js # Validation and dynamic FAQ logic
+
 Landing Page:-
 ![image](https://github.com/AbhayMParmar/Netflixclone/blob/main/Screenshot%202025-03-10%20201212.png?raw=true)
 ![image](https://github.com/AbhayMParmar/Netflixclone/blob/main/Screenshot%202025-03-10%20203448.png?raw=true)
