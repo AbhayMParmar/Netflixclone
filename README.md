@@ -16,6 +16,25 @@ _(https://codewith30.netlify.app/)_
 ├── style.css # Main stylesheet
 ├── script.js # Validation and dynamic FAQ logic
 
+
+## 🔑 Features
+
+- 🎬 Netflix-inspired responsive UI
+- 🧾 Registration and login forms with basic validation
+- 📧 Email input prompt to start a "membership"
+- 📦 FAQ section with expandable answers
+- ✅ Form validation using JavaScript
+- 📱 Responsive layout with media queries
+- 🎨 Styled with custom CSS and Bootstrap
+
+## 🛠 Technologies Used
+
+- HTML5
+- CSS3 + Bootstrap 4
+- JavaScript (Vanilla)
+
+
+
 Landing Page:-
 ![image](https://github.com/AbhayMParmar/Netflixclone/blob/main/Screenshot%202025-03-10%20201212.png?raw=true)
 ![image](https://github.com/AbhayMParmar/Netflixclone/blob/main/Screenshot%202025-03-10%20203448.png?raw=true)
