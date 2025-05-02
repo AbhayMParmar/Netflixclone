@@ -1,5 +1,12 @@
-# Netflixclone
-The Netflix Clone is a web application that replicates the core functionalities of Netflix, providing users with an engaging streaming experience.
+# Netflix-Style Frontend Website
+
+This project is a **Netflix-style landing page and user system clone** built using HTML, CSS (including Bootstrap), and JavaScript. It includes basic UI pages for registration, login, and a dynamic FAQ section similar to Netflix.
+
+## 🌐 Live Preview
+
+_(https://codewith30.netlify.app/)_
+
+## 📁 Project Structure
 
 Landing Page:-
 ![image](https://github.com/AbhayMParmar/Netflixclone/blob/main/Screenshot%202025-03-10%20201212.png?raw=true)
